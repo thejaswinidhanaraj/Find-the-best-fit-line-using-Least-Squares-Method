@@ -49,7 +49,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+
 ![EXP 1 OUT](https://github.com/user-attachments/assets/7498dd2a-4a3a-4e09-bafd-a13085492b50)
 
 
